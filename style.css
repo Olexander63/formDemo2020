@@ -1,0 +1,15 @@
+form {
+    width: 400px;
+    background-color: blanchedalmond;
+    padding: 10px;
+}
+textarea {
+    resize: none;
+}
+ input::placeholder {
+    color: brown;
+    font-style: italic;
+ }
+ .send {
+     padding: 10px 15px;
+ }
